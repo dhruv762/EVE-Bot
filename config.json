@@ -1,9 +1,9 @@
 {
-    "token": "DISCORD TOKEN",
+    "token": "MTQzOTUxNzQyMjAzMjkxNjU1MQ.GO4GA2.AZHR6pUPuGZsGelDNGpe9VD8SPsXJ260cl1rwc",
     "color": "#34a6ef",
-    "developerGuild": "GUILD ID",
+    "developerGuild": "1327542872563519490",
     "database": "MongoDB Url",
-    "supportServer": "DISCORD Invite Link",
+    "supportServer": "https://discord.gg/YgQTcJx4wx",
     "activityInterval": 10,
     "activities": [
             "/invite | dsc.gg/eve-bot",
